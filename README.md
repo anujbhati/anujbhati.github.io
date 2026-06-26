@@ -34,7 +34,3 @@ Technical Support Professional & Web Developer based in Canada.
 - 📊 AI for Business Leaders Bootcamp — Outskill (Jun 2026)
 
 ---
-
-## 📊 GitHub Stats
-
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujbhati&show_icons=true&theme=tokyonight&hide_border=true)
